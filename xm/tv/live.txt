@@ -1,6 +1,4 @@
 🐅huya(ljk播放器),#genre#
-// https://epg.112114.xyz/huya/
-// http://124.223.212.38:83/douyu/
 RM刘在石李光洙跑男,https://epg.112114.xyz/huya/11336725
 【七龍珠改】超级赛亚人孙捂空,https://epg.112114.xyz/huya/11601966
 【Blue胖】你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
@@ -19,8 +17,6 @@ RM刘在石李光洙跑男,https://epg.112114.xyz/huya/11336725
 成龍历险记·社会我阿福乌鸦坐飞机,https://epg.112114.xyz/huya/11352946
 
 🍊Bilibili(ljk播放器),#genre#
-// https://epg.112114.xyz/bili/
-// http://zzy789.xyz/bili.php?id=
 24小时连播蓝胖子,http://zzy789.xyz/bili.php?id=482946
 【哆啦A梦】旧版全集,http://zzy789.xyz/bili.php?id=1717236
 全集哆啦A梦大山版24小时轮播,http://zzy789.xyz/bili.php?id=346400
@@ -89,10 +85,6 @@ LexBurner,http://zzy789.xyz/bili.php?id=11365
 -猫大人-,http://zzy789.xyz/bili.php?id=723
 
 🐳douyu(ljk播放器),#genre#
-// http://epg.112114.xyz/douyu/
-// http://zzy789.xyz/douyu1.php?id=
-// http://124.223.212.38:83/douyu/
-// http://diyp.112114.xyz/douyu/
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
 ✨✨✨计划！五一节の快乐✨✨✨,http://epg.112114.xyz/douyu/7528160
