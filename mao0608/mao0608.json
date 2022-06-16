@@ -1,24 +1,5 @@
-// 本地接口 clan://协议 简易设定流程：
-// 下载底下懒人包 并记住存放位置
-// 升级猫影视TV至 2.1.1 Beta6
-// 设置 --> 存储权限 --> 允许
-// 设置 --> 当前接口配置 --> 透过扫码或浏览器访问网址 (如 http://172.16.xx.xx:9978/api.html)
-// 假设你已透过上述方式，成功进入"猫影视.接口"配置页面
-// 配置 --> 上传文件 --> 长按刚刚下载的懒人包 选取 --> 开启 --> 确认上传? --> 确定
-// 回到猫影视TV --> 设置 --> 当前接口配置 --> clan://localhost/mao0608/mao0608.json --> 确定 --> 躺平
-
-
 {
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
-
-"spider":"https://ztz315555954.github.io/mymao/mao0608/doraAmen.jar",
-
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHMlM0EvL3p0ejMxNTU1NTk1NC5naXRodWIuaW8vbXltYW8vbWFvMDYwOC90di9saXZlLnR4dA=="
-]}]}],
-
-
-"sites": [
+  "sites": [
     {
       "key": "腾讯官网",
       "name": "腾讯官网",
@@ -521,5 +502,10 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ]
+  ],
+  "wallpaper":"https://picsum.photos/1280/720/?blur=10",
+  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
+"proxy://do=live&type=txt&ext=aHR0cHMlM0EvL3p0ejMxNTU1NTk1NC5naXRodWIuaW8vbXltYW8vbWFvMDYwOC9saXZlLnR4dA=="
+]}]}],
+  "spider": "https://ztz315555954.github.io/mymao/mao0608/BL0608.jar"
 }
