@@ -505,7 +505,7 @@
   ],
   "wallpaper":"https://picsum.photos/1280/720/?blur=10",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHMlM0EvL3p0ejMxNTU1NTk1NC5naXRodWIuaW8vbXltYW8vbWFvMDYwOC9saXZlLnR4dA=="
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly96dHozMTU1NTU5NTQuZ2l0aHViLmlvL215bWFvL21hbzA2MDgvbGl2ZS50eHQ="
 ]}]}],
   "spider": "https://ztz315555954.github.io/mymao/mao0608/BL0608.jar"
 }
